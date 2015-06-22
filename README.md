@@ -6,7 +6,7 @@
 ## Install
 
 ```{bash}
-git clone https://github.com/bsspirit/EAB-basic
+git clone https://github.com/youngsun45/EAB-basic
 npm install
 bower install
 ```
@@ -17,8 +17,8 @@ bower install
 npm start
 ```
 ## Author
-
-Blog: https://github.com/youngsun45/EAB-basic
+Name: youngsun45
+URL: https://github.com/youngsun45/EAB-basic
 
 ## License
 MIT
