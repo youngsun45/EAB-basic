@@ -1,3 +1,10 @@
 body{
+	background: #fafafa;
 	font: 14px/1.5 arial,"Microsoft Yahei","Hiragino Sans GB",sans-serif;
+}
+
+header{
+	height: 103px;
+	background: #006600 url("/images/top_bg.jpg") no-repeat center center;
+	border-bottom:1px solid #5bb97a;	
 }
