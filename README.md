@@ -6,6 +6,7 @@
 ## 特点
 - Express4,Angularjs,Bootstrap（bootstrap-material-design）主流前端结合在一起，满足前端使用
 - gulp任务监视主要目录，有改变自动更新浏览器
+- 更多gulp任务将在以后添加
 
 ## Install
 
