@@ -3,6 +3,10 @@
 
 [快速Web环境 Express4 + Angularjs + Bootstrap3](https://github.com/youngsun45/EAB-basic)
 
+## 特点
+- Express4,Angularjs,Bootstrap（bootstrap-material-design）主流前端结合在一起，满足前端使用
+- gulp任务监视主要目录，有改变自动更新浏览器
+
 ## Install
 
 ```{bash}
