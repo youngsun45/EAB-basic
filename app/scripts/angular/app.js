@@ -6,5 +6,5 @@ app.config(['$routeProvider', '$locationProvider', function($routeProvider, $loc
     $routeProvider
         .when('/', {templateUrl: '/views/tpl/welcome.html', controller: 'WelcomeCtrl'})
         .otherwise({redirectTo: '/'});
-    $locationProvider.html5Mode(false);
+    $locationProvider.html5Mode(true);
 }]);
