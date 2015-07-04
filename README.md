@@ -19,7 +19,10 @@ bower install
 
 ```{bash}
 npm start
+
 ```
+需要chrome浏览器自动刷新时,请安装[RemoteLiveReload插件](https://chrome.google.com/webstore/detail/remotelivereload/jlppknnillhjgiengoigajegdpieppei),并且开启它。
+
 ## Author
 Name: youngsun45
 URL: https://github.com/youngsun45/EAB-basic
